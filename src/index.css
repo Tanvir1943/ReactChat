@@ -220,3 +220,8 @@ ol,ul,li{
 /*====================================
           Submit Button   CSS
 =====================================*/
+
+.Input_box{
+    width: 100% !important;
+    margin-bottom: 10px !important;
+}
